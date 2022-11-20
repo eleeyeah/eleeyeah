@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Ilie [ee|lee|yeh]</h1>
+<h1 align="center">Hi 👋, my name is Ilie [ee |lee |yeh ]</h1>
 <h3 align="center">I'm a creative mind looking to feed my curiosity with new ways of making the world a better place</h3>
 
 - 🌱 I’m currently learning **Typescript, Next and Blockchain development**
