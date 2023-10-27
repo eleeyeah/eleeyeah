@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, my name is Ilie [ee |lee |yeh ]</h1>
 <h3 align="center">I'm a creative mind looking to feed my curiosity with ways of making the world a better place</h3>
-
 👨‍💻 I strive for consistency and continuous learning
-
-🌱 I’m currently dipping my fingers into **Typescript, Next and Blockchain development**
-
-📫 Contact me at **ilietmks@gmail.com**
-
-
 
 
 <h3 align="center">Languages and Tools:</h3>
